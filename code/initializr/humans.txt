@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Joseph Urbina -- master -- no twitter
 
 # THANKS
 
