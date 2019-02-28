@@ -3,11 +3,11 @@
 
 # TEAM
 
-    Joseph Urbina -- master -- no twitter or facebook or snapchat
+    <name> -- <role> -- <twitter>
 
 # THANKS
 
-    harry houdini
+    <name>
 
 # TECHNOLOGY COLOPHON
 
