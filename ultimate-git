@@ -1,0 +1,25 @@
+ctrl alt t			open terminal
+pwd				figure out where on the tree you are
+cd projects			change to your projects directory
+mkdir ultimate-git		make new directory ultimate-git inside projects directory
+cd ultimate-git			change to ultimate-git directory
+mkdir code text			make two new directories called code and text
+google-chrome http://initzr	open google into the initializr site and download zip
+cd Downloads			change to Downloads directory
+unzip <zip file> -d <path>	unzip into ../projects/ultimate-git/code
+
+goto github			create repository ultimate-git. Tick to create a README.MD file
+				copy the ssh url
+				edit the README.MD file
+				commit
+
+				return to terminal
+
+git remote add origin master <ssh url>	this will connect the local to the remote repository
+git pull origin master --allow-unrealted-histories
+
+The remote add connects the local and remote repositories
+git pull origin master with the allow flag synchronises the repositories ignoring conflicts.
+
+
+		
